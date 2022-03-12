@@ -1,0 +1,2 @@
+language = "pygame"
+run = "python shooter_tut13.py"
